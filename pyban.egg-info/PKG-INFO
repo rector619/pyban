@@ -1,15 +1,17 @@
 Metadata-Version: 2.1
-Name: pykan
+Name: pyban
 Version: 0.0.1
-Summary: Kolmogorov Arnold Networks
-Author: Ziming Liu
-Author-email: zmliu@mit.edu
+Summary: Bamidele Awojoyogbe Networks
+Author: Jeremiah Ayanda
+Author-email: olumaintain619@gmail.com
 Classifier: Programming Language :: Python :: 3
 Classifier: License :: OSI Approved :: MIT License
 Classifier: Operating System :: OS Independent
 Requires-Python: >=3.6
 Description-Content-Type: text/markdown
 License-File: LICENSE
+
+Disclaimer: pyban is based on [kan](https://github.com/KindXiaoming/pykan) with intentions to enhance efficiency and performance of it, you may find accross the function names and examples are same. This readme also attests to that.
 
 <img width="600" alt="kan_plot" src="https://github.com/KindXiaoming/pykan/assets/23551623/a2d2d225-b4d2-4c1e-823e-bc45c7ea96f9">
 
@@ -27,15 +29,15 @@ There are two ways to install pykan, through pypi or github.
 **Installation via github**
 
 ```python
-git clone https://github.com/KindXiaoming/pykan.git
-cd pykan
+git clone https://github.com/rector619/pyban.git
+cd pyban
 pip install -e .
 ```
 
 **Installation via pypi (soon)**
 
 ```python
-pip install pykan
+pip install pyban
 ```
 
 
