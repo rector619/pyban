@@ -1,3 +1,7 @@
+## Disclaimer
+
+Disclaimer: pyban is based on [kan](https://github.com/KindXiaoming/pykan) with intentions to enhance efficiency and performance of it, you may find accross the function names and examples are same. This readme also attests to that.
+
 <img width="600" alt="kan_plot" src="https://github.com/KindXiaoming/pykan/assets/23551623/a2d2d225-b4d2-4c1e-823e-bc45c7ea96f9">
 
 # Kolmogorov-Arnold Networks (KANs)
