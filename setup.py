@@ -5,8 +5,8 @@ with open("README.md", "r", encoding="utf8") as fh:
     long_description = fh.read()
 
 setuptools.setup(
-    name="pyban",
-    version="0.0.5",
+    name="pyban1",
+    version="0.0.1",
     author="Jeremiah Ayanda",
     author_email="olumaintain619@gmail.com",
     description="Bamidele Awojoyogbe Networks",
