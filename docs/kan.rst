@@ -1,53 +1,53 @@
-kan package
+ban package
 ===========
 
 Submodules
 ----------
 
-kan.KAN module
+ban.KAN module
 --------------
 
-.. automodule:: kan.KAN
+.. automodule:: ban.KAN
    :members:
    :undoc-members:
    :show-inheritance:
 
-kan.KANLayer module
+ban.KANLayer module
 -------------------
 
-.. automodule:: kan.KANLayer
+.. automodule:: ban.KANLayer
    :members:
    :undoc-members:
    :show-inheritance:
 
-kan.LBFGS module
+ban.LBFGS module
 ----------------
 
-.. automodule:: kan.LBFGS
+.. automodule:: ban.LBFGS
    :members:
    :undoc-members:
    :show-inheritance:
 
-kan.Symbolic\_KANLayer module
+ban.Symbolic\_KANLayer module
 -----------------------------
 
-.. automodule:: kan.Symbolic_KANLayer
+.. automodule:: ban.Symbolic_KANLayer
    :members:
    :undoc-members:
    :show-inheritance:
 
-kan.spline module
+ban.spline module
 -----------------
 
-.. automodule:: kan.spline
+.. automodule:: ban.spline
    :members:
    :undoc-members:
    :show-inheritance:
 
-kan.utils module
+ban.utils module
 ----------------
 
-.. automodule:: kan.utils
+.. automodule:: ban.utils
    :members:
    :undoc-members:
    :show-inheritance:
@@ -55,7 +55,7 @@ kan.utils module
 Module contents
 ---------------
 
-.. automodule:: kan
+.. automodule:: ban
    :members:
    :undoc-members:
    :show-inheritance:

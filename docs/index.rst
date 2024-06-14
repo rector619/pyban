@@ -35,7 +35,7 @@ Installation via PyPI
 
 .. code-block:: python
 
-   pip install pykan
+   pip install pyban1
    
 
 Requirements

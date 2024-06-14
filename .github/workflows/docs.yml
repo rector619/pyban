@@ -27,7 +27,7 @@ jobs:
       run: |
         pip3 install .
         cd docs
-        sphinx-apidoc -o . ../kan
+        sphinx-apidoc -o . ../ban
         make clean html
         make html
     # https://github.com/peaceiris/actions-gh-pages

@@ -43,12 +43,12 @@ Please set `torch.set_default_dtype(torch.float64)` if you want high precision.
 
 **Example 4: Training of a three-layer KAN**
 
-![kan_training_low_res](https://github.com/KindXiaoming/pykan/assets/23551623/e9f215c7-a393-46b9-8528-c906878f015e)
+![kan_training_low_res](https://github.com/rector619/pyban/assets/23551623/e9f215c7-a393-46b9-8528-c906878f015e)
 
 
 
 ## Installation
-Pykan can be installed via PyPI or directly from GitHub. 
+Pyban can be installed via PyPI or directly from GitHub. 
 
 **Pre-requisites:**
 
@@ -60,16 +60,16 @@ pip
 **Installation via github**
 
 ```
-python -m venv pykan-env
-source pykan-env/bin/activate  # On Windows use `pykan-env\Scripts\activate`
-pip install git+https://github.com/KindXiaoming/pykan.git
+python -m venv pyban-env
+source pyban-env/bin/activate  # On Windows use `pykan-env\Scripts\activate`
+pip install git+https://github.com/rector619/pyban.git
 ```
 
 **Installation via PyPI:**
 ```
-python -m venv pykan-env
-source pykan-env/bin/activate  # On Windows use `pykan-env\Scripts\activate`
-pip install pykan
+python -m venv pyban-env
+source pyban-env/bin/activate  # On Windows use `pykan-env\Scripts\activate`
+pip install pyban1
 ```
 Requirements
 
@@ -92,11 +92,11 @@ pip install -r requirements.txt
 **Optional: Conda Environment Setup**
 For those who prefer using Conda:
 ```
-conda create --name pykan-env python=3.9.7
-conda activate pykan-env
-pip install git+https://github.com/KindXiaoming/pykan.git  # For GitHub installation
+conda create --name pyban-env python=3.9.7
+conda activate pyban-env
+pip install git+https://github.com/rector619/pyban.git  # For GitHub installation
 # or
-pip install pykan  # For PyPI installation
+pip install pyban1  # For PyPI installation
 ```
 
 ## Computation requirements
